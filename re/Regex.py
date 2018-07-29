@@ -44,4 +44,4 @@ for PIN in Major_cities:
     else:
         print(PIN + " is not valid PIN !")
 
-#python Regex.py
+#python3 Regex.py
